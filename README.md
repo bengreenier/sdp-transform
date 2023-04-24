@@ -1,5 +1,8 @@
 # SDP Transform
 
+[![CI](https://github.com/bengreenier/sdp-transform/actions/workflows/ci.yml/badge.svg)](https://github.com/bengreenier/sdp-transform/actions/workflows/ci.yml)
+[![npm (scoped)](https://img.shields.io/npm/v/bengreenier/sdp-transform)](https://npmjs.com/package/@bengreenier/sdp-transform)
+
 > Forked to convert to TypeScript + ESM. ✨
 
 A simple parser and writer of SDP. Defines internal grammar based on [RFC4566 - SDP](http://tools.ietf.org/html/rfc4566), [RFC5245 - ICE](http://tools.ietf.org/html/rfc5245), and many more.
