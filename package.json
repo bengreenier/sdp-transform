@@ -9,10 +9,10 @@
   "contributors": [
     "Eirik Albrigtsen <sszynrae@gmail.com>"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
-    "url": "clux/sdp-transform"
+    "url": "bengreenier/sdp-transform"
   },
   "keywords": [
     "sdp",
@@ -58,7 +58,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/clux/sdp-transform/issues"
+    "url": "https://github.com/bengreenier/sdp-transform/issues"
   },
   "engines": {
     "node": ">=18"
