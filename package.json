@@ -1,8 +1,11 @@
 {
   "name": "@bengreenier/sdp-transform",
-  "description": "A simple parser/writer for the Session Description Protocol",
+  "description": "A simple parser/writer for the Session Description Protocol with ESM support",
   "author": "Ben Greenier",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "contributors": [
     "Eirik Albrigtsen <sszynrae@gmail.com>"
   ],
