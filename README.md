@@ -1,7 +1,7 @@
 # SDP Transform
 
 [![CI](https://github.com/bengreenier/sdp-transform/actions/workflows/ci.yml/badge.svg)](https://github.com/bengreenier/sdp-transform/actions/workflows/ci.yml)
-[![npm (scoped)](https://img.shields.io/npm/v/bengreenier/sdp-transform)](https://npmjs.com/package/@bengreenier/sdp-transform)
+[![npm (scoped)](https://img.shields.io/npm/v/@bengreenier/sdp-transform)](https://npmjs.com/package/@bengreenier/sdp-transform)
 
 > Forked to convert to TypeScript + ESM. ✨
 
